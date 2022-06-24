@@ -1,3 +1,5 @@
+
+https://docs.oracle.com/database/121/LADBI/usr_grps.htm#LADBI7654
 with left_tab as
 ( 
 select 1 x,'a' y from dual union 
